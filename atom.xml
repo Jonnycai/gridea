@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://i.jonycai.com</id>
-    <title>Gridea</title>
-    <updated>2021-07-30T04:50:48.758Z</updated>
+    <title>Jonycai的美丽生活</title>
+    <updated>2021-07-30T04:57:45.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://i.jonycai.com"/>
     <link rel="self" href="https://i.jonycai.com/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>诗，美，浪漫，爱，这些才是我们生存的原因</subtitle>
     <logo>https://i.jonycai.com/images/avatar.png</logo>
     <icon>https://i.jonycai.com/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Jonycai的美丽生活</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://i.jonycai.com/post/hello-gridea/</id>
